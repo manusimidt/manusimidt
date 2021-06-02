@@ -8,7 +8,7 @@ Hey there 👋,
 - [PY-XBRL](https://github.com/manusimidt/xbrl_parser) (Open Source Python XBRL/iXBRL Parser)
 
 ## 📬 Get in touch
-- Web: [schmidt-manuel.de](https://schmidt-manuel.de)
+- Web: [manusimidt.dev](https://manusimidt.dev/)
 - LinkedIn: [manusimidt](https://www.linkedin.com/in/manusimidt/)
 - Email:  [hello@schmidt-manuel.de](mailto:hello@schmidt-manuel.de)
 
