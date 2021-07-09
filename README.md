@@ -5,7 +5,7 @@
 Hey there 👋,
 
 ## 🧭 Recent Projects
-- [PY-XBRL](https://github.com/manusimidt/xbrl_parser) (Open Source Python XBRL/iXBRL Parser)
+- [PY-XBRL](https://github.com/manusimidt/py-xbrl) (Open Source Python XBRL/iXBRL Parser)
 
 ## 📬 Get in touch
 - Web: [manusimidt.dev](https://manusimidt.dev/)
