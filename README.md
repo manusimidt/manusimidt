@@ -1,6 +1,6 @@
 # About Me:
 
-📚 I am currently doing my Masters in Artificial Intelligence at JKU in Linz, Austria. <br>
+📚 I did my Masters in Artificial Intelligence at JKU in Linz, Austria. <br>
 🤖 There I have chosen the elective track "Mechatronics - Robotics and Autonomous Systems" because I am fascinated by robotics and drones. <br>
 🎓 Before my master's degree, I did a bachelor's degree in business information technology.<br>
 
